@@ -1,7 +1,7 @@
 ---
 title: Go Conference 2019 Spring
 template: "page"
-description: Half-annual conference of in Tokyo.
+description: Half-annual conference of Go in Tokyo.
 ---
 
 
