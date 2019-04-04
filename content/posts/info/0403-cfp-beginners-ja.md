@@ -1,5 +1,5 @@
 ---
-title: カンファレンス登壇への応募が初めての人のための"GoCon Tokyo 2019 Spring" CfPの書き方
+title: カンファレンス登壇への応募が初めての人のための"GoCon Tokyo 2019 Spring" Proposalの書き方
 date: "2019-04-03T23:00:00+09:00"
 template: "post"
 draft: false
@@ -86,4 +86,4 @@ Bioは直訳すると経歴ですが、要するに自己紹介アピールの�
 Editボタンから再編集できます。
 Archiveボタンを押すと、そのTalkはアーカイブされて提出されない？っぽいので気をつけましょう。
 
-## CfPお待ちしています！
+## Proposalお待ちしています！
