@@ -1,12 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://gocon.jp',
   title: 'Gocon',
-  subtitle: 'Half-annual conference of in Tokyo.',
-  copyright: '© All rights reserved.',
+  subtitle: 'Half-annual conference of Go in Tokyo.',
+  copyright: '©GoCon All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 8,
   googleAnalyticsId: '#',
   menu: [
     {
@@ -24,8 +24,8 @@ module.exports = {
   ],
   author: {
     name: 'GoCon',
-    photo: '/photo.jpg',
-    bio: 'Half-annual conference of in Tokyo.',
+    photo: '#',
+    bio: 'Half-annual conference of Go in Tokyo.',
     contacts: {
       email: '#',
       telegram: '#',
