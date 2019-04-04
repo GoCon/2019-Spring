@@ -21,6 +21,10 @@ module.exports = {
       label: 'Info',
       path: '/category/info/',
     },
+    {
+      label: "What's new?",
+      path: '/info/whatsnew',
+    }
   ],
   author: {
     name: 'GoCon',

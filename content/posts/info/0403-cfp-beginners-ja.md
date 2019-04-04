@@ -3,7 +3,7 @@ title: カンファレンス登壇への応募が初めての人のための"GoC
 date: "2019-04-03T23:00:00+09:00"
 template: "post"
 draft: false
-slug: info/cfp-deadline-beginners-ja
+slug: info/cfp-beginners-ja
 category: info
 tags: 
   - cfp
