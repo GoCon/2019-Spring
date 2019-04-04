@@ -38,7 +38,7 @@ description: 初めてでも恐れずに、GoCon登壇を目指してGoCon CfP�
 
 ポイントは、「__日本語、英語どちらでもセッション登録が可能である__」「__締め切りまで何度でも編集が可能である__」この２点です。
 
-papercallの機能として[このリンクのように](https://www.papercall.io/speakers/46393/speaker_talks/126723-let-s-solve-quizzes-about-go-parallelism-become-an-advanced-gopher)自分自身のCfPを他人に共有することができるので、イケてないところを仲間内でぶらっ者アップしていきましょう。
+papercallの機能として[このリンクのように](https://www.papercall.io/speakers/46393/speaker_talks/126723-let-s-solve-quizzes-about-go-parallelism-become-an-advanced-gopher)自分自身のCfPを他人に共有することができるので、イケてないところを仲間内でブラッシュアップしていきましょう。
 
 ## "Speak at Go Conference Tokyo 2019 Spring!"ボタンを押して登録を始めよう。
 
