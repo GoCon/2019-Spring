@@ -1,8 +1,10 @@
 import React from 'react';
 import Helmet from 'react-helmet';
 import styles from './Layout.module.scss';
+import Footer from '../Footer';
 
 const Layout = ({ children, title, description }) => (
+  <>
   <div className={styles.layout}>
     <Helmet>
       <html lang="en" />
@@ -11,6 +13,8 @@ const Layout = ({ children, title, description }) => (
     </Helmet>
     {children}
   </div>
+  <Footer/>
+  </>
 );
 
 export default Layout;
