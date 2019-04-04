@@ -23,7 +23,7 @@ deadline is __April 13!__
 
 ## For Beginners of conference talk (Japanese language only)
 
-[カンファレンス登壇への応募が初めての人のための"GoCon Tokyo 2019 Spring" CfPの書き方](/info-cfp-beginners-ja)
+[カンファレンス登壇への応募が初めての人のための"GoCon Tokyo 2019 Spring" CfPの書き方](/info/cfp-beginners-ja)
 
 ## When you want contact us ...
 
