@@ -151,6 +151,16 @@ figcaption {
   padding-right: 14px !important;
 }
 
+table {
+  text-align: left;
+}
+
+tr, td {
+  box-sizing: border-box;
+  border: 2px $color-gray-border solid;
+  padding-right: 5px
+}
+
 @include breakpoint-sm {
   figure.float-left,
   figure.float-right {
