@@ -5,15 +5,15 @@ import Footer from '../Footer';
 
 const Layout = ({ children, title, description }) => (
   <>
-  <div className={styles.layout}>
-    <Helmet>
-      <html lang="en" />
-      <title>{title}</title>
-      <meta name="description" content={description} />
-    </Helmet>
-    {children}
-  </div>
-  <Footer/>
+    <div className={styles.layout}>
+      <Helmet>
+        <html lang="en" />
+        <title>{title}</title>
+        <meta name="description" content={description} />
+      </Helmet>
+      {children}
+    </div>
+    <Footer/>
   </>
 );
 
