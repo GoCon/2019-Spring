@@ -8,7 +8,7 @@ description: Half-annual conference of Go in Tokyo.
 Half-annual conference of [programming language Go](https://golang.org) in Tokyo.
 
 |Date             | Venue                                                                                |
-|:----------------|:-------------------------------------------------------------------------------------|
+|:--|:--|
 |2019/05/18 (Sat) | Recruit Lifestyle  1-9-2 Marunouchi, GranTokyo South Tower, Chiyoda-ku, Tokyo, Japan |
 
 # Keynote Speaker
@@ -34,7 +34,6 @@ Attendees can register on [the connpass page](https://gocon.connpass.com/event/1
 
 |Time          | Hall         | Room A            | Room B | Room C|
 |:--|:--|:--|:--|:--|
-|------------- | ------------ | ----------------- | ------ | ------|
 |09:30 -       | Open         | -                 | -      | -     |
 |10:00 - 10:10 | Opening Talk | -                 | -      | -     |
 |10:10 - 11:00 | Keynote      | -                 | -      | -     |
