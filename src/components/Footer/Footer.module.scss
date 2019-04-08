@@ -1,0 +1,17 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+$footer-width: ($layout-width - 100px);
+
+.footer {
+    lost-center: $footer-width;
+    a {
+        float: left;
+        img {
+            box-sizing: border-box;
+            width: ($footer-width/4);
+            padding: 10px;
+        }
+    }
+}
+
