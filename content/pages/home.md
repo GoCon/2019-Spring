@@ -1,7 +1,7 @@
 ---
 title: Go Conference 2019 Spring
 template: "page"
-description: Half-annual conference of Go in Tokyo.
+description: Half-annual conference of programming language Go in Tokyo.
 ---
 
 
@@ -32,9 +32,11 @@ Attendees can register on [the connpass page](https://gocon.connpass.com/event/1
 
 # Time Table
 
+*This time table is tentaive. It will be fixed by the event day.*
+
 |Time          | Hall         | Room A            | Room B | Room C|
 |:-------------|:-------------|:------------------|:-------|:------|
-|09:30 -       | Open         | -                 | -      | -     |
+|09:30 -       | Open venue   | -                 | -      | -     |
 |10:00 - 10:10 | Opening Talk | -                 | -      | -     |
 |10:10 - 11:00 | Keynote      | -                 | -      | -     |
 |11:00 - 11:10 | Break        | -                 | -      | -     |
@@ -55,10 +57,10 @@ Attendees can register on [the connpass page](https://gocon.connpass.com/event/1
 |17:00 - 17:20 | H10(S)       | A10(S)            | B10(S) | -     |
 |17:20 - 17:30 | Break        |                   |        |       |
 |17:30 - 17:35 | Open After Party ||||
-|17:35 - 17:55 | S4 ||||
-|17:55 - 18:10 | LT x 2 ||||
-|18:10 - 18:40 | Close After Party ||||
-|18:40 - 19:00 | Open After Party ||||
+|17:35 - 17:55 | Sponsor Talks ||||
+|17:55 - 18:50 | LT (# of LT is TBD) & mingling ||||
+|18:50 - 18:55 | Close After Party ||||
+|18:55 - 19:00 | Close event ||||
 
 # Talks
 
