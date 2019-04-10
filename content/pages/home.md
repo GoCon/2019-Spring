@@ -11,12 +11,9 @@ Half-annual conference of [programming language Go](https://golang.org) in Tokyo
 |:----------------|:-------------------------------------------------------------------------------------|
 |2019/05/18 (Sat) | Recruit Lifestyle  1-9-2 Marunouchi, GranTokyo South Tower, Chiyoda-ku, Tokyo, Japan |
 
-# Keynote Speaker
+# Keynote
 
-## We'll announce it soon!!!![TBD](#)
-
-
-TBD
+__We'll announce it soon!!!__
 
 # Registration
 
