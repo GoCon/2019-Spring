@@ -13,10 +13,9 @@ Half-annual conference of [programming language Go](https://golang.org) in Tokyo
 
 # Keynote Speaker
 
-## We'll announce it soon!!!![TBD](#)
+## We'll announce it soon!!!
 
-
-TBD
+[TBD](#)
 
 # Registration
 
