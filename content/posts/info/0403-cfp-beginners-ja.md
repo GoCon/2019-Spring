@@ -87,3 +87,6 @@ Editボタンから再編集できます。
 Archiveボタンを押すと、そのTalkはアーカイブされて提出されない？っぽいので気をつけましょう。
 
 ## Proposalお待ちしています！
+
+追記：papercallの機能として、TalkとSubmissionは別物です。
+必ずsubmissionの日時を確認してください！
