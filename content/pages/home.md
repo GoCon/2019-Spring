@@ -29,7 +29,7 @@ Attendees can register on [the connpass page](https://gocon.connpass.com/event/1
 
 # Time Table
 
-*This time table is tentaive. It will be fixed by the event day.*
+*This time table is tentative. It will be fixed by the event day.*
 
 |Time          | Hall         | Room A            | Room B | Room C|
 |:-------------|:-------------|:------------------|:-------|:------|
