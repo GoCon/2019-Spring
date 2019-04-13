@@ -61,7 +61,11 @@ Attendees can register on [the connpass page](https://gocon.connpass.com/event/1
 
 # Talks
 
-CfP is now open! Please submit your talk via [PaperCall](https://www.papercall.io/gocon-tokyo-2019).
+~~CfP is now open! Please submit your talk via [PaperCall](https://www.papercall.io/gocon-tokyo-2019).~~
+
+Thank you for your proposal!
+Please wait our next announce.
+
 
 # Code of Conduct
 
