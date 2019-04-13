@@ -15,23 +15,9 @@ description: Latest news about GoCon Tokyo 2019 Spring.
 
 ## CfP
 
-Now we receive CfP on [PaperCall](https://www.papercall.io/gocon-tokyo-2019).
+Proposal Deadline was coming!
+Please wait our response.
 
-If you interest in GoCon sessions watch this link!
-
-deadline is __April 13!__
-
-### Caution!
-
-"Talk" and "Submission" are different in papercall.
-When you edit submitted talk, submission may be not editted.
-
-__Make sure check your Updated date.__
-
-
-## For Beginners of conference talk (Japanese language only)
-
-[カンファレンス登壇への応募が初めての人のための"GoCon Tokyo 2019 Spring" CfPの書き方](/info/cfp-beginners-ja)
 
 ## When you want contact us ...
 
