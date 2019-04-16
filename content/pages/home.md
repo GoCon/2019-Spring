@@ -13,7 +13,7 @@ Half-annual conference of [programming language Go](https://golang.org) in Tokyo
 
 # Keynote Speaker: Katie Hockman
 
-<img style="max-width: 450px;" src="/media/keynote_speaker.jpg">
+<img style="max-width: 300px;" src="/media/keynote_speaker.jpg">
 
 ## Katie Hockman's BIO
 
@@ -84,12 +84,9 @@ We applicate all your sponsorship!
 To be more concrete, here is the list of what we welcome to have:
 
 * Swags
-* Fancy websites
 * Simultaneous translations
 * Lunch
-* Coffee and snacks
 * Live streamings and video recordings
-* After party or "Konshinkai"
 
 # Contact Us
 
