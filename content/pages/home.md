@@ -11,18 +11,24 @@ Half-annual conference of [programming language Go](https://golang.org) in Tokyo
 |:----------------|:-------------------------------------------------------------------------------------|
 |2019/05/18 (Sat) | Recruit Lifestyle  1-9-2 Marunouchi, GranTokyo South Tower, Chiyoda-ku, Tokyo, Japan |
 
-# Keynote
+# Keynote Speaker: Katie Hockman
 
-__We'll announce it soon!!!__
+![keynote_speaker: Katie Hockman](/media/keynote_speaker.jpg)
+
+## Katie Hockman's BIO
+
+Katie Hockman joined the Go team in New York City as a software engineer in 2018, where she is leading the team that is building the Go module proxy. She worked at Google for three years before joining the Go team, writing code in Java, Python, Javascript, and a little Typescript. Most recently, she was doing frontend work on the accessibility team with the goal of making Google the best place to work for people with disabilities.
 
 # Registration
+
+Registration will start from April 18th 9:00 in JST!!
 
 Attendees can register on [the connpass page](https://gocon.connpass.com/event/124530/).
 
 # Schedule
 
-* Mar 16th: Open CfP
-* Apr 13th: Close CfP
+* ~~Mar 16th: Open CfP~~
+* ~~Apr 13th: Close CfP~~
 * mid Apr: Open time table
 * Apr 18th: Open Registration
 * May 18th: Go Conference 2019 Spring
