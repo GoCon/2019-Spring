@@ -13,7 +13,7 @@ Half-annual conference of [programming language Go](https://golang.org) in Tokyo
 
 # Keynote Speaker: Katie Hockman
 
-![keynote_speaker: Katie Hockman](/media/keynote_speaker.jpg)
+<img style="max-width: 450px;" src="/media/keynote_speaker.jpg">
 
 ## Katie Hockman's BIO
 
@@ -21,7 +21,7 @@ Katie Hockman joined the Go team in New York City as a software engineer in 2018
 
 # Registration
 
-Registration will start from April 18th 9:00 in JST!!
+Registration will start from April 18th in JST!!
 
 Attendees can register on [the connpass page](https://gocon.connpass.com/event/124530/).
 
