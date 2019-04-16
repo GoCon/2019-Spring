@@ -34,6 +34,11 @@ __If you submitted CfP, please register "CfP perticipants".__
 
 Please check details in [connpass page](https://gocon.connpass.com/event/124530/).
 
+## For Students
+
+We sponsored scholarships from Wantedly, inc. 
+
+If you are a student, please read [this page](https://www.wantedly.com/projects/302608).
 
 ## When you want contact us ...
 
