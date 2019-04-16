@@ -30,7 +30,7 @@ There are
 * 10 perticipants (For people from distance. First Come, First Served)
 * 20 Volunteer staff.
 
-__If you register CfP, please register "CfP perticipants".__
+__If you submitted CfP, please register "CfP perticipants".__
 
 Please check details in [connpass page](https://gocon.connpass.com/event/124530/).
 
