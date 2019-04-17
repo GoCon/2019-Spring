@@ -5,12 +5,27 @@ $footer-width: ($layout-width - 100px);
 
 .footer {
     lost-center: $footer-width;
-    a {
-        float: left;
-        img {
-            box-sizing: border-box;
-            width: ($footer-width/4);
-            padding: 10px;
+    .row{
+        height: $footer-width/8;
+        width: 100%;
+        display: block;
+        div {
+            float: left;
+            width: 25%;
+            height: 100%;
+            position: relative;
+            a {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                display: block;
+                width: 100%;
+                img {
+                    box-sizing: border-box;
+                    width: 100%;
+                    padding: 10px;
+                }
+            }
         }
     }
 }
