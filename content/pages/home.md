@@ -72,12 +72,24 @@ Attendees can register on [the connpass page](https://gocon.connpass.com/event/1
 Thank you for your proposal!
 Please wait our next announce.
 
-
-# Code of Conduct
-
-We require our attendees and speakers to follow [Go Community Code of Conduct](https://golang.org/conduct).
-
 # Sponsors
+
+<table style="table-layout:fixed; border: 0; width: 100%; height: 250px;">
+    <tr style="height: 50%;">
+        <td><a href="https://www.cloudsign.jp/"><img src="/media/sponsors/01_cloudsign.png"></a></td>
+        <td><a href="https://www.freee.co.jp/"><img src="/media/sponsors/02_freee.png"></a></td>
+        <td><a href="https://about.mercari.com/"><img src="/media/sponsors/03_mercari_logo_corporate.png"></a></td>
+    </tr>
+    <tr style="height: 50%;">
+        <td><a href="https://wantedlyinc.com/ja/presentations"><img src="/media/sponsors/04_wantedly.png"></a></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+(アルファベット順)
+
+## Sponsors needed
 
 We applicate all your sponsorship!
 
@@ -88,9 +100,15 @@ To be more concrete, here is the list of what we welcome to have:
 * Lunch
 * Live streamings and video recordings
 
+# Code of Conduct
+
+We require our attendees and speakers to follow [Go Community Code of Conduct](https://golang.org/conduct).
+
 # Contact Us
 
 Feel free contact us via [this form](https://goo.gl/forms/h2KlFhUDoFs6rLnh2).
+
+If you want response as soon as possible, please contact @tenntenn on Twitter.
 
 # Disclaimer
 

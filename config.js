@@ -22,8 +22,12 @@ module.exports = {
       path: '/category/info/',
     },
     {
+      label: 'Sponsors',
+      path: '/pages/sponsors',
+    },
+    {
       label: "What's new?",
-      path: '/info/whatsnew',
+      path: '/info/whatsnew/',
     }
   ],
   author: {
