@@ -19,9 +19,9 @@ __Katie Hockman__ from the Go team.
 
 Her bio is [here](/pages/home).
 
-## Registration will starts from 18th April.
+## Registration started from 18th April.
 
-Registration will starts from April 18th 9:00 in JST(+09:00).
+Registration started from April 18th 9:00 in JST(+09:00).
 
 There are 
 
@@ -40,6 +40,10 @@ We sponsored scholarships from Wantedly, inc.
 
 If you are a student, please read [this page](https://www.wantedly.com/projects/302608).
 
-## When you want contact us ...
+## Sponsors
+
+[sponsors page](/pages/sponsors)
+
+## When you want to contact us ...
 
 Please feel free to contact us via [this form](https://goo.gl/forms/h2KlFhUDoFs6rLnh2).
