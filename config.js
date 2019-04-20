@@ -11,7 +11,7 @@ module.exports = {
   menu: [
     {
       label: 'Home',
-      path: 'pages/home',
+      path: '/',
     },
     {
       label: 'Sessions',
