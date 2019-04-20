@@ -2,6 +2,7 @@
 title: Go Conference 2019 Spring
 template: "page"
 description: Half-annual conference of programming language Go in Tokyo.
+slug: /
 ---
 
 
