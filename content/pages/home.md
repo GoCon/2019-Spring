@@ -5,6 +5,7 @@ description: Half-annual conference of programming language Go in Tokyo.
 slug: /
 ---
 
+[What's New?](info/whatsnew)
 
 Half-annual conference of [programming language Go](https://golang.org) in Tokyo.
 
@@ -31,7 +32,7 @@ Attendees can register on [the connpass page](https://gocon.connpass.com/event/1
 * ~~Mar 16th: Open CfP~~
 * ~~Apr 13th: Close CfP~~
 * mid Apr: Open time table
-* Apr 18th: Open Registration
+* ~~Apr 18th: Open Registration~~
 * May 18th: Go Conference 2019 Spring
 
 # Time Table
@@ -118,3 +119,7 @@ We appreciate your understanding that the event quality is totally depending on 
 Event organizers are also attendees, and to keep their motivation, the event is organized with the minimum effort by the organizers. 
 
 If you are kind enough to support anything, please let us know via [this form](https://goo.gl/forms/h2KlFhUDoFs6rLnh2).
+
+# Next GoConference in Japan!!
+
+[Go Conference 2019 Summer in Fukuoka](https://fukuoka.gocon.jp/)

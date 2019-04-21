@@ -11,28 +11,11 @@ tags:
 description: Latest news about GoCon Tokyo 2019 Spring.  
 ---
 
-[HOME](/pages/home)
+[HOME](/)
 
-## Keynote Speaker is anounced!!
+## Thank you for your registration!!
 
-__Katie Hockman__ from the Go team.
-
-Her bio is [here](/pages/home).
-
-## Registration started from 18th April.
-
-Registration started from April 18th 9:00 in JST(+09:00).
-
-There are 
-
-* 50 perticipants (First Come, First Served)
-* 180 perticipants (Lottery)
-* 10 perticipants (For people from distance. First Come, First Served)
-* 20 Volunteer staff.
-
-__If you submitted CfP, please register "CfP perticipants".__
-
-Please check details in [connpass page](https://gocon.connpass.com/event/124530/).
+We are looking forward to see you. 
 
 ## For Students
 
@@ -47,3 +30,7 @@ If you are a student, please read [this page](https://www.wantedly.com/projects/
 ## When you want to contact us ...
 
 Please feel free to contact us via [this form](https://goo.gl/forms/h2KlFhUDoFs6rLnh2).
+
+## Next GoConference in Japan!!
+
+[Go Conference 2019 Summer in Fukuoka](https://fukuoka.gocon.jp/)
