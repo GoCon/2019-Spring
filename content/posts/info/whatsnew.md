@@ -13,13 +13,17 @@ description: Latest news about GoCon Tokyo 2019 Spring.
 
 [HOME](/)
 
+## New scholarships from mercari, inc.
+
+If you are a student, please read [this page](https://tech.mercari.com/entry/2019/04/22/105121).
+
 ## Thank you for your registration!!
 
 We are looking forward to see you. 
 
 ## For Students
 
-We sponsored scholarships from Wantedly, inc. 
+We are sponsored scholarships from Wantedly, inc. 
 
 If you are a student, please read [this page](https://www.wantedly.com/projects/302608).
 
