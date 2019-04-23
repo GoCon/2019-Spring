@@ -18,14 +18,6 @@ module.exports = {
       path: '/2019-spring-sessions',
     },
     {
-      label: 'Info',
-      path: '/category/info/',
-    },
-    {
-      label: 'Sponsors',
-      path: '/pages/sponsors',
-    },
-    {
       label: "What's new?",
       path: '/info/whatsnew/',
     }

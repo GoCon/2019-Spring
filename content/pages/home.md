@@ -23,7 +23,7 @@ Katie Hockman joined the Go team in New York City as a software engineer in 2018
 
 ## Time Table
 
-Time Table is in [sessions page](/2019-spring-sessions)
+[Sessions page](/2019-spring-sessions)
 
 # Sponsors
 
