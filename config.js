@@ -15,7 +15,7 @@ module.exports = {
     },
     {
       label: 'Sessions',
-      path: '/category/sessions/',
+      path: '/2019-spring-sessions',
     },
     {
       label: 'Info',
