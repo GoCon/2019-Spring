@@ -1,14 +1,16 @@
 ---
-title: 2019 Spring Time Table & Sessions
-date: "2019-04-23T19:00:00+09:00"
+title: 2019 Spring Sessions
+date: "2019-04-23T21:00:00+09:00"
 template: "post"
 draft: false
 slug: 2019-spring-sessions
 category: info
 tags: 
     - en
-description: Time table and sessions of 2019-Spring
+description: Sessions of 2019-Spring
 ---
+
+<style>h3 {margin-top:0}</style>
 
 *This time table is tentative. It will be fixed by the event day.*
 
@@ -39,7 +41,7 @@ description: Time table and sessions of 2019-Spring
 |16:40 - 17:20 |[H8 (L): Building Modules Discovery](/2019-spring-sessions#h8-l-building-modules-discovery-from-go-team)|[A8 (L): Implementing Quota as a Service](/2019-spring-sessions#a8-l-implementing-quota-as-a-service)|[B8 (L): CPU, Memory and Go](/2019-spring-sessions#b8-l-cpu-memory-and-go)|[C8 (S): Dark side of the reflect \*](/2019-spring-sessions#c8-s-dark-side-of-the-reflect-short-session)|
 |17:20 - 17:30 | Break (10min) | - | - | - |
 |17:30 - 18:30 | Sponsors      | - | - | - |
-|18:30 - 19:00 | LT            | - | - | - |
+|18:30 - 19:00 | [LT](/2019-spring-sessions#lt)| - | - | - |
 |19:00 - 20:30 | Closign Party | - | - | - |
 
 * C8 is a short session.
@@ -309,4 +311,13 @@ Golang has a feature called reflect. Generally, it is said that using reflect is
 * Speaker: Sai
 * Twitter: sairoutine
 
-## LT Schedule will be announced soon.
+## LT
+
+|Title|Speaker|
+|:--|:--|
+|gobpfでPostgreSQLを動的トレーシングする|Jun Uchino|
+|標準パッケージにおけるテストでの利用例から学ぶ testing.quick パッケージ|Yusuke Hosonuma|
+|SQLFormatter written in Go|pongzu|
+|Event Sourcing with Go|garsue|
+|俺はビッグエンディアンでテストがしたいんだ！！！（How to test on BigEndian arch on Travis CI）|kawasin73|
+|システムライブラリに依存しないlessコマンドAPIの簡易版を作った|wataru kikuchi|

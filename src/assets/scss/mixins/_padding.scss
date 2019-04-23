@@ -17,3 +17,7 @@
 @mixin padding-equal($number) {
     padding: #{ $number * $typographic-leading + "px"};
 }
+
+@mixin padding-top($number) {
+    padding-top: #{ $number * $typographic-leading + "px"};
+}

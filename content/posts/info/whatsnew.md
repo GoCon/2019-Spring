@@ -16,7 +16,6 @@ description: Latest news about GoCon Tokyo 2019 Spring.
 ## TIme table is now published.
 
 Please see [sessions page](/2019-spring-sessions).
-LT table will be annouced soon.
 
 ## For Students (Scholorship)
 
@@ -24,10 +23,6 @@ We are sponsored scholarships from Wantedly, inc. and Mercari, inc.
 
 * [From Wantedly, inc.](https://www.wantedly.com/projects/302608).
 * [From Mercari, inc.](https://tech.mercari.com/entry/2019/04/22/105121).
-
-## Sponsors
-
-[sponsors page](/pages/sponsors)
 
 ## When you want to contact us ...
 
