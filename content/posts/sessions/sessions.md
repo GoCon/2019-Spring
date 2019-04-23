@@ -42,7 +42,7 @@ description: Sessions of 2019-Spring
 |17:20 - 17:30 | Break (10min) | - | - | - |
 |17:30 - 18:30 | Sponsors      | - | - | - |
 |18:30 - 19:00 | [LT](/2019-spring-sessions#lt)| - | - | - |
-|19:00 - 20:30 | Closign Party | - | - | - |
+|19:00 - 20:30 | Closing Party | - | - | - |
 
 * C8 is a short session.
 
