@@ -36,7 +36,7 @@ description: Sessions of 2019-Spring
 |15:45 - 15:50 | Break (5min)  | - | - | - |
 |15:50 - 16:10 |[H6 (S): Dive into Buildkit LLB with Go](/2019-spring-sessions#h6-s-dive-into-buildkit-llb-with-go)|[A6 (S): Building FIDO2 server in Go](/2019-spring-sessions#a6-s-building-fido2-server-in-go)|[B6 (S): GoでAPIサーバをはやくつくる](/2019-spring-sessions#b6-s-goでapiサーバをはやくつくる)|[C6 (S): Golang で Docker ベースの CI を作る](/2019-spring-sessions#c6-s-golang-で-docker-ベースの-ci-を作る)|
 |16:10 - 16:15 | Break (5min)  | - | - | - |
-|16:15 - 16:35 |[H7 (S): We want AWESOME CLI tool & development](/2019-spring-sessions#h7-s-we-want-awesome-cli-tool--development)|[A7 (S): database/sql入門](/2019-spring-sessions#a7-s-databasesql入門b7-s-fuzzy-finder-as-a-go-library)|[B7 (S): Fuzzy finder as a Go library](/2019-spring-sessions#b7-s-fuzzy-finder-as-a-go-library)|[C7 (S): JavaプログラムをGoに移植するためのテクニック――継承と例外](/2019-spring-sessions#c7-s-javaプログラムをgoに移植するためのテクニック継承と例外)|
+|16:15 - 16:35 |[H7 (S): We want AWESOME CLI tool & development](/2019-spring-sessions#h7-s-we-want-awesome-cli-tool--development)|[A7 (S): database/sql入門](/2019-spring-sessions#a7-s-databasesql入門)|[B7 (S): Fuzzy finder as a Go library](/2019-spring-sessions#b7-s-fuzzy-finder-as-a-go-library)|[C7 (S): JavaプログラムをGoに移植するためのテクニック――継承と例外](/2019-spring-sessions#c7-s-javaプログラムをgoに移植するためのテクニック継承と例外)|
 |16:35 - 16:40 | Break (5min)  | - | - | - |
 |16:40 - 17:20 |[H8 (L): Building Modules Discovery](/2019-spring-sessions#h8-l-building-modules-discovery-from-go-team)|[A8 (L): Implementing Quota as a Service](/2019-spring-sessions#a8-l-implementing-quota-as-a-service)|[B8 (L): CPU, Memory and Go](/2019-spring-sessions#b8-l-cpu-memory-and-go)|[C8 (S): Dark side of the reflect \*](/2019-spring-sessions#c8-s-dark-side-of-the-reflect-short-session)|
 |17:20 - 17:30 | Break (10min) | - | - | - |
@@ -251,7 +251,7 @@ golang と言えば CLI ツール、CLI ツールと言えば golang、といっ
 * Speaker: micnncim
 * Twitter: micnncim
 
-### A7 (S): database/sql入門|B7 (S): Fuzzy finder as a Go library
+### A7 (S): database/sql入門
 
 これから始める人のためにdatabase/sqlパッケージの使い方をまとめます。  
 アプリケーションコード内での使い方だけではなく、環境構築方法、マイグレーション方法、単体テストや結合テスト、CI上でのテストの仕方も紹介します。  
