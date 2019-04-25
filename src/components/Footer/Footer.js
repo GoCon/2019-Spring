@@ -9,7 +9,7 @@ const Footer = () => (
             <div><a href="https://dena.com"><img src="/media/sponsors/02_dena.png"></img></a></div>
             <div><a href="https://www.freee.co.jp/"><img src="/media/sponsors/03_freee.png"></img></a></div>
             <div><a href="https://www.mediado.jp/"><img src="/media/sponsors/04_mediado.png"></img></a></div>
-            <div><a href="https://about.mercari.com/"><img src="/media/sponsors/05_mercari_logo_corporate.png"></img></a></div>
+            <div><a href="https://about.mercari.com/"><img src="/media/sponsors/05_mercari.png"></img></a></div>
             <div><a href="https://www.recruit.co.jp/"><img src="/media/sponsors/06_recruit.png"></img></a></div>
             <div><a href="https://wantedlyinc.com/ja/presentations"><img src="/media/sponsors/07_wantedly.png"></img></a></div>
         </div>
