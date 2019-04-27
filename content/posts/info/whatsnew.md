@@ -23,6 +23,7 @@ We are sponsored scholarships from Wantedly, inc. and Mercari, inc.
 
 * [From Wantedly, inc.](https://www.wantedly.com/projects/302608).
 * [From Mercari, inc.](https://tech.mercari.com/entry/2019/04/22/105121).
+* [From Media Do, inc.](https://www.wantedly.com/companies/mediado/post_articles/166705) (<-NEW!)
 
 ## When you want to contact us ...
 
