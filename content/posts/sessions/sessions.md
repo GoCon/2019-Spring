@@ -285,7 +285,7 @@ Javaではクラスによるオブジェクト指向と例外機構が標準的�
 
 ### H8 (L): Building Modules Discovery (from Go Team)
 
-The Go team is aiming to build a module mirror as the default in the go command for Go 1.13.Module proxies add reliability and security to the ecosystem. I’ll discuss the technical details ofauthenticated module proxies, following the journey of a request through the go command,proxy, and notary
+At some point, we all find ourselves wanting to use a third-party Go package in our Go code. This talk discusses strategies for discovering, evaluating and maintaining Go packages and modules. It also shares new tools that the Go team is building to make this process better.
 
 * Speaker: Julie Qiu
 
