@@ -28,7 +28,7 @@ description: Sessions of 2019-Spring
 |13:40 - 13:45 | Break (5min)  | - | - | - |
 |13:45 - 14:05 |[H3 (S): 標準パッケージのみで大量のPNG画像をいかに高速に処理するか](/2019-spring-sessions#h3-s-標準パッケージのみで大量のpng画像をいかに高速に処理するか)|[A3 (S): Goによる外部プロセス起動ベストプラクティス及びtimeoutパッケージ徹底解決](/2019-spring-sessions#a3-s-goによる外部プロセス起動ベストプラクティス及びtimeoutパッケージ徹底解決)|[B3 (S): Gopherと行く Langな旅](/2019-spring-sessions#b3-s-gopherと行く-langな旅)|[C3-5: Hands-on: Go と Google Cloud Functions で楽しもう(~15:15)](/2019-spring-sessions#c3-5-hands-on-go-と-google-cloud-functions-で楽しもう)|
 |14:05 - 14:10 | Break (5min)  | - | - |   |
-|14:10 - 14:30 |[H4 (S): Visualizations in Golang](/2019-spring-sessions#h4-s-visualizations-in-golang)|[A4 (S): Design considerations for container-based Go applications](/2019-spring-sessions#a4-s-design-considerations-for-container-based-go-applications)|[B4 (S): Go1.9 で作られた App Engine のサービスを Go1.11 に移行した話](/2019-spring-sessions#b4-s-go19-で作られた-app-engine-のサービスを-go111-に移行した話)|  |
+|14:10 - 14:30 |[H4 (S): 煩雑な運用をGoを使って楽にする](/2019-spring-sessions#h4-s-煩雑な運用をgoを使って楽にする)|[A4 (S): Design considerations for container-based Go applications](/2019-spring-sessions#a4-s-design-considerations-for-container-based-go-applications)|[B4 (S): Go1.9 で作られた App Engine のサービスを Go1.11 に移行した話](/2019-spring-sessions#b4-s-go19-で作られた-app-engine-のサービスを-go111-に移行した話)|  |
 |14:30 - 14:35 | Break(5min)   | - | - |   |
 |14:35 - 15:15 |[H5 (L): Writing Go Analyses with go/analysis](/2019-spring-sessions#h5-l-writing-go-analyses-with-goanalysis-from-go-team)|[A5 (L): Expand observability in Go](/2019-spring-sessions#a5-l-expand-observability-in-go)|[B5 (L): Design pattern for Image and text composition  in Go](/2019-spring-sessions#b5-l-design-pattern-for-image-and-text-composition--in-go)| (13:45~) Hands on |
 |15:15 - 15:25 | Break(10min)        |                   |        |       |
@@ -155,11 +155,12 @@ Google Cloud Functions は、2019年1月に Go でも書けるようになりま
 
 14:10 - 14:30
 
-### H4 (S): Visualizations in Golang
+### H4 (S): 煩雑な運用をGoを使って楽にする
 
-In this talk, I will show Gophers and Cs educators better ways to understand and visualize data with libraries that I have developed. They will leave with practical advice and tools which will allow them to learn and perform data analysis.
+プロジェクトを運用していると日々様々なタスクが発生します 例えばExcelでやりとりされるデータを適切に処理する必要があったり、Google Driveに保存してあるファイルを処理しつつバージョン管理する必要があったり、特定のファイルを大量に生成する必要があったり などです そんなGoで開発/運用されているのプロジェクトで起きた課題をどのように解決し、またその過程で嵌った点などを紹介できればと思います
 
-* Speaker: Arafat
+* Speaker: Ryosuke Yabuki
+* Twitter: Konboi
 
 ### A4 (S): Design considerations for container-based Go applications
 
