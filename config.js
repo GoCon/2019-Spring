@@ -29,7 +29,7 @@ module.exports = {
     contacts: {
       email: '#',
       telegram: '#',
-      twitter: '#',
+      twitter: '/hashtag/gocon',
       github: '#',
       rss: '#',
       vkontakte: '#'
