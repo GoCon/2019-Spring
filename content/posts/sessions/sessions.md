@@ -12,37 +12,35 @@ description: Sessions of 2019-Spring
 
 <style>h3 {margin-top:0}</style>
 
-*This time table is tentative. It will be fixed by the event day.*
-
-|Time          | Hall         | Room A            | Room B | Room C|
-|:-------------|:-------------|:------------------|:-------|:------|
-|09:30 -       | Open venue   | -                 | -      | -     |
-|10:00 - 10:10 | Opening Talk | -                 | -      | -     |
-|10:10 - 11:00 | Keynote      | -                 | -      | -     |
-|11:00 - 11:10 | Break (10min) | - | - | - |
-|11:10 - 11:30 |[H1 (S): Hacking Go Compiler Internals 2](/2019-spring-sessions#h1-s-hacking-go-compiler-internals-2)|[A1 (S): Case studies of designing developer friendly libraries](/2019-spring-sessions#a1-s-case-studies-of-designing-developer-friendly-libraries)|[B1 (S): How a "not the greatest engineer" achieved his first contribution to Go](/2019-spring-sessions#b1-s-how-a-not-the-greatest-engineer-achieved-his-first-contribution-to-go)|[C1 (S): Golang JP Google+ Community Survey Results](/2019-spring-sessions#c1-s-golang-jp-google-community-survey-results)|
-|11:30 - 11:35 | Break (5min)  | - | - | - |
-|11:30 - 11:50 |[H2 (S): Security Scan for golang Using Open Source](/2019-spring-sessions#h2-s-security-scan-for-golang-using-open-source)|[A2 (S): Better asset bundling tool than the best](/2019-spring-sessions#a2-s-better-asset-bundling-tool-than-the-best)|[B2 (S): エラー設計について/Designing Errors](/2019-spring-sessions#b2-s-エラー設計についてdesigning-errors)|[C2 (S): Subee: Pub/Sub Worker Framework Implementation](/2019-spring-sessions#c2-s-subee-pubsub-worker-framework-implementation)|
-|11:50 - 13:20 | Lunch Break   | - | - | - |
-|13:20 - 13:40 | Sponsors      | - | - | - |
-|13:40 - 13:45 | Break (5min)  | - | - | - |
-|13:45 - 14:05 |[H3 (S): 標準パッケージのみで大量のPNG画像をいかに高速に処理するか](/2019-spring-sessions#h3-s-標準パッケージのみで大量のpng画像をいかに高速に処理するか)|[A3 (S): Goによる外部プロセス起動ベストプラクティス及びtimeoutパッケージ徹底解決](/2019-spring-sessions#a3-s-goによる外部プロセス起動ベストプラクティス及びtimeoutパッケージ徹底解決)|[B3 (S): Gopherと行く Langな旅](/2019-spring-sessions#b3-s-gopherと行く-langな旅)|[C3-5: Hands-on: Go と Google Cloud Functions で楽しもう(~15:15)](/2019-spring-sessions#c3-5-hands-on-go-と-google-cloud-functions-で楽しもう)|
-|14:05 - 14:10 | Break (5min)  | - | - |   |
-|14:10 - 14:30 |[H4 (S): Visualizations in Golang](/2019-spring-sessions#h4-s-visualizations-in-golang)|[A4 (S): Design considerations for container-based Go applications](/2019-spring-sessions#a4-s-design-considerations-for-container-based-go-applications)|[B4 (S): Go1.9 で作られた App Engine のサービスを Go1.11 に移行した話](/2019-spring-sessions#b4-s-go19-で作られた-app-engine-のサービスを-go111-に移行した話)|  |
-|14:30 - 14:35 | Break(5min)   | - | - |   |
-|14:35 - 15:15 |[H5 (L): Writing Go Analyses with go/analysis](/2019-spring-sessions#h5-l-writing-go-analyses-with-goanalysis-from-go-team)|[A5 (L): Expand observability in Go](/2019-spring-sessions#a5-l-expand-observability-in-go)|[B5 (L): Design pattern for Image and text composition  in Go](/2019-spring-sessions#b5-l-design-pattern-for-image-and-text-composition--in-go)| (13:45~) Hands on |
-|15:15 - 15:25 | Break(10min)        |                   |        |       |
-|15:25 - 15:45 | Sponsors      | - | - | - |
-|15:45 - 15:50 | Break (5min)  | - | - | - |
-|15:50 - 16:10 |[H6 (S): Dive into Buildkit LLB with Go](/2019-spring-sessions#h6-s-dive-into-buildkit-llb-with-go)|[A6 (S): Building FIDO2 server in Go](/2019-spring-sessions#a6-s-building-fido2-server-in-go)|[B6 (S): GoでAPIサーバをはやくつくる](/2019-spring-sessions#b6-s-goでapiサーバをはやくつくる)|[C6 (S): Golang で Docker ベースの CI を作る](/2019-spring-sessions#c6-s-golang-で-docker-ベースの-ci-を作る)|
-|16:10 - 16:15 | Break (5min)  | - | - | - |
-|16:15 - 16:35 |[H7 (S): We want AWESOME CLI tool & development](/2019-spring-sessions#h7-s-we-want-awesome-cli-tool--development)|[A7 (S): database/sql入門](/2019-spring-sessions#a7-s-databasesql入門)|[B7 (S): Fuzzy finder as a Go library](/2019-spring-sessions#b7-s-fuzzy-finder-as-a-go-library)|[C7 (S): JavaプログラムをGoに移植するためのテクニック――継承と例外](/2019-spring-sessions#c7-s-javaプログラムをgoに移植するためのテクニック継承と例外)|
-|16:35 - 16:40 | Break (5min)  | - | - | - |
-|16:40 - 17:20 |[H8 (L): Building Modules Discovery](/2019-spring-sessions#h8-l-building-modules-discovery-from-go-team)|[A8 (L): Implementing Quota as a Service](/2019-spring-sessions#a8-l-implementing-quota-as-a-service)|[B8 (L): CPU, Memory and Go](/2019-spring-sessions#b8-l-cpu-memory-and-go)|[C8 (S): Dark side of the reflect \*](/2019-spring-sessions#c8-s-dark-side-of-the-reflect-short-session)|
-|17:20 - 17:30 | Break (10min) | - | - | - |
-|17:30 - 18:30 | Sponsors      | - | - | - |
-|18:30 - 19:00 | [LT](/2019-spring-sessions#lt)| - | - | - |
-|19:00 - 20:30 | Closing Party | - | - | - |
+|Time          | Hall         | Room A            | Room B | Room C| Chillout Space |
+|:-------------|:-------------|:------------------|:-------|:------|:---------------|
+|09:30 -       | Open venue   | -                 | -      | -     | -              |
+|10:00 - 10:10 | Opening Talk | -                 | -      | -     | -              |
+|10:10 - 11:00 | Keynote      | -                 | -      | -     | -              |
+|11:00 - 11:10 | Break (10min) | - | - | - | - |
+|11:10 - 11:30 |[H1 (S): Hacking Go Compiler Internals 2](/2019-spring-sessions#h1-s-hacking-go-compiler-internals-2)|[A1 (S): Case studies of designing developer friendly libraries](/2019-spring-sessions#a1-s-case-studies-of-designing-developer-friendly-libraries)|[B1 (S): How a "not the greatest engineer" achieved his first contribution to Go](/2019-spring-sessions#b1-s-how-a-not-the-greatest-engineer-achieved-his-first-contribution-to-go)|[C1 (S): Golang JP Google+ Community Survey Results](/2019-spring-sessions#c1-s-golang-jp-google-community-survey-results)| - |
+|11:30 - 11:35 | Break (5min)  | - | - | - | - |
+|11:35 - 11:55 |[H2 (S): Security Scan for golang Using Open Source](/2019-spring-sessions#h2-s-security-scan-for-golang-using-open-source)|[A2 (S): Better asset bundling tool than the best](/2019-spring-sessions#a2-s-better-asset-bundling-tool-than-the-best)|[B2 (S): エラー設計について/Designing Errors](/2019-spring-sessions#b2-s-エラー設計についてdesigning-errors)|[C2 (S): Subee: Pub/Sub Worker Framework Implementation](/2019-spring-sessions#c2-s-subee-pubsub-worker-framework-implementation)| - |
+|11:55 - 13:20 | Lunch Break   | - | - | - | - |
+|13:20 - 13:40 | Sponsors      | - | - | - | - |
+|13:40 - 13:45 | Break (5min)  | - | - | - | - |
+|13:45 - 14:05 |[H3 (S): 標準パッケージのみで大量のPNG画像をいかに高速に処理するか](/2019-spring-sessions#h3-s-標準パッケージのみで大量のpng画像をいかに高速に処理するか)|[A3 (S): Goによる外部プロセス起動ベストプラクティス及びtimeoutパッケージ徹底解決](/2019-spring-sessions#a3-s-goによる外部プロセス起動ベストプラクティス及びtimeoutパッケージ徹底解決)|[B3 (S): Gopherと行く Langな旅](/2019-spring-sessions#b3-s-gopherと行く-langな旅)| [H2 (S): Security Scan for golang Using Open Source](/2019-spring-sessions#h2-s-security-scan-for-golang-using-open-source) |[C3-5: Hands-on: Go と Google Cloud Functions で楽しもう(~15:15)](/2019-spring-sessions#c3-5-hands-on-go-と-google-cloud-functions-で楽しもう)|
+|14:05 - 14:10 | Break (5min)  | - | - | - | - |
+|14:10 - 14:30 |[H4 (S): 煩雑な運用をGoを使って楽にする](/2019-spring-sessions#h4-s-煩雑な運用をgoを使って楽にする)|[A4 (S): Design considerations for container-based Go applications](/2019-spring-sessions#a4-s-design-considerations-for-container-based-go-applications)|[B4 (S): Go1.9 で作られた App Engine のサービスを Go1.11 に移行した話](/2019-spring-sessions#b4-s-go19-で作られた-app-engine-のサービスを-go111-に移行した話)| - | - |
+|14:30 - 14:35 | Break(5min)   | - | - | - | - |
+|14:35 - 15:15 |[H5 (L): Writing Go Analyses with go/analysis](/2019-spring-sessions#h5-l-writing-go-analyses-with-goanalysis-from-go-team)|[A5 (L): Expand observability in Go](/2019-spring-sessions#a5-l-expand-observability-in-go)|[B5 (L): Design pattern for Image and text composition  in Go](/2019-spring-sessions#b5-l-design-pattern-for-image-and-text-composition--in-go)| - | (13:45~) Hands on |
+|15:15 - 15:25 | Break(10min)        | - | - | - | - |
+|15:25 - 15:45 | Sponsors      | - | - | - | - |
+|15:45 - 15:50 | Break (5min)  | - | - | - | - |
+|15:50 - 16:10 |[H6 (S): Dive into Buildkit LLB with Go](/2019-spring-sessions#h6-s-dive-into-buildkit-llb-with-go)|[A6 (S): Building FIDO2 server in Go](/2019-spring-sessions#a6-s-building-fido2-server-in-go)|[B6 (S): GoでAPIサーバをはやくつくる](/2019-spring-sessions#b6-s-goでapiサーバをはやくつくる)|[C6 (S): Golang で Docker ベースの CI を作る](/2019-spring-sessions#c6-s-golang-で-docker-ベースの-ci-を作る)| - |
+|16:10 - 16:15 | Break (5min)  | - | - | - | - |
+|16:15 - 16:35 |[H7 (S): We want AWESOME CLI tool & development](/2019-spring-sessions#h7-s-we-want-awesome-cli-tool--development)|[A7 (S): database/sql入門](/2019-spring-sessions#a7-s-databasesql入門)|[B7 (S): Fuzzy finder as a Go library](/2019-spring-sessions#b7-s-fuzzy-finder-as-a-go-library)|[C7 (S): JavaプログラムをGoに移植するためのテクニック――継承と例外](/2019-spring-sessions#c7-s-javaプログラムをgoに移植するためのテクニック継承と例外)| - |
+|16:35 - 16:40 | Break (5min)  | - | - | - | - |
+|16:40 - 17:20 |[H8 (L): Building Modules Discovery](/2019-spring-sessions#h8-l-building-modules-discovery-from-go-team)|[A8 (L): Implementing Quota as a Service](/2019-spring-sessions#a8-l-implementing-quota-as-a-service)|[B8 (L): CPU, Memory and Go](/2019-spring-sessions#b8-l-cpu-memory-and-go)|[C8 (S): Dark side of the reflect \*](/2019-spring-sessions#c8-s-dark-side-of-the-reflect-short-session)| - |
+|17:20 - 17:30 | Break (10min) | - | - | - | - |
+|17:30 - 18:30 | Sponsors      | - | - | - | - |
+|18:30 - 19:00 | [LT](/2019-spring-sessions#lt)| - | - | - | - |
+|19:00 - 20:30 | Closing Party | - | - | - | - |
 
 * C8 is a short session.
 
@@ -155,11 +153,12 @@ Google Cloud Functions は、2019年1月に Go でも書けるようになりま
 
 14:10 - 14:30
 
-### H4 (S): Visualizations in Golang
+### H4 (S): 煩雑な運用をGoを使って楽にする
 
-In this talk, I will show Gophers and Cs educators better ways to understand and visualize data with libraries that I have developed. They will leave with practical advice and tools which will allow them to learn and perform data analysis.
+プロジェクトを運用していると日々様々なタスクが発生します 例えばExcelでやりとりされるデータを適切に処理する必要があったり、Google Driveに保存してあるファイルを処理しつつバージョン管理する必要があったり、特定のファイルを大量に生成する必要があったり などです そんなGoで開発/運用されているのプロジェクトで起きた課題をどのように解決し、またその過程で嵌った点などを紹介できればと思います
 
-* Speaker: Arafat
+* Speaker: Ryosuke Yabuki
+* Twitter: Konboi
 
 ### A4 (S): Design considerations for container-based Go applications
 
