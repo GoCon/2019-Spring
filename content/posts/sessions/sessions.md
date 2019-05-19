@@ -38,9 +38,9 @@ description: Sessions of 2019-Spring
 |16:35 - 16:40 | Break (5min)  | - | - | - | - |
 |16:40 - 17:20 |[H8 (L): Building Modules Discovery](/2019-spring-sessions#h8-l-building-modules-discovery-from-go-team)|[A8 (L): Implementing Quota as a Service](/2019-spring-sessions#a8-l-implementing-quota-as-a-service)|[B8 (L): CPU, Memory and Go](/2019-spring-sessions#b8-l-cpu-memory-and-go)|[C8 (S): Dark side of the reflect \*](/2019-spring-sessions#c8-s-dark-side-of-the-reflect-short-session)| - |
 |17:20 - 17:30 | Break (10min) | - | - | - | - |
-|17:30 - 18:30 | Sponsors      | - | - | - | - |
-|18:30 - 19:00 | [LT](/2019-spring-sessions#lt)| - | - | - | - |
-|19:00 - 20:30 | Closing Party | - | - | - | - |
+|17:30 - 18:00 | Sponsors      | - | - | - | - |
+|18:00 - 18:30 | [LT](/2019-spring-sessions#lt)| - | - | - | - |
+|18:30 - 20:00 | - | - | Closing Party | Closing Party | - |
 
 * C8 is a short session.
 
